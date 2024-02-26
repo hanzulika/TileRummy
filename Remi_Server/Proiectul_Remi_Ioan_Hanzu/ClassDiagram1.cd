@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proiectul_Remi_Ioan_Hanzu.ActualGame">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CBREAEAwQC8hBygKBBSG4B8nBsQAIRxKQIYgBgigAAM=</HashCode>
+      <FileName>ActualGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proiectul_Remi_Ioan_Hanzu.StartScreen">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAEGAAEQggAACAAAACACAJAAAAAIAEAAAAAAA=</HashCode>
+      <FileName>StartScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proiectul_Remi_Ioan_Hanzu.GameBoardManager">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCSEAAKQABAgACICCAAAAIAABAAAAgQCAZAAAAAQAAI=</HashCode>
+      <FileName>GameBoardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proiectul_Remi_Ioan_Hanzu.GameRules">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIEIACRAgwAEgAJAEFEAAAwBAAAAACAKAEAACEIQAA=</HashCode>
+      <FileName>GameRules.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameBoardManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiectul_Remi_Ioan_Hanzu.Tile">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAEAAAAAAAAAgUAAACBAIQAAAKBgEAAAAACE=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
